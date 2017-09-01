@@ -67,7 +67,7 @@ random_seed: random seed for tensorflow
 
 #### Network architecture
 
-network_depth: how deep of the U-Net including the bottom layer
+network_depth: how deep of the network including the bottom layer
 
 class_num: how many classes. Usually number of classes plus one for background
 
